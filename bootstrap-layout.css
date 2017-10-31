@@ -6,8 +6,3 @@ body {
   background-color: white;
   overflow:auto;
 }
-
-* {
-box-sizing: border-box;
-overflow: auto;
-}
